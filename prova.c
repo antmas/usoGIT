@@ -6,7 +6,7 @@ int main(int argc,char**argv)
   int b;
   int c;
 
-  c=a+b;
+  c=a+b; //sum
 
   return 0;
 }
